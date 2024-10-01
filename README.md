@@ -1,5 +1,7 @@
-                               <<< LANGKAH-LANGKAH MEMBUAT JAVA GUI "BUKU" DENGAN APLIKASI CRUD DAN MENGKONEKSIKANNYA KE DATABASE >>>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LANGKAH-LANGKAH MEMBUAT JAVA GUI "BUKU" DENGAN APLIKASI CRUD DAN MENGKONEKSIKANNYA KE DATABASE
+-------------------------------------------------------------------------------------------------------
+
+
 
 1. 	Pertama-tama, buat class non-main dengan nama sesuai keinginan. Didalam class tersebut akan diisi dengan method-method yang menjadi pendukung bagi class Java Swing
 2. 	Setelah itu, buat class baru dengan tipe JFrameForm, lalu buat struktur tampilan GUI sebagai tampilan output saat class Java Swing dijalankan. Contohnya seperti berikut:
